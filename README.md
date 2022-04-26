@@ -2,7 +2,7 @@
 
 
 ### :shipit: About me!
-I'm currently working as fullstack web developer, but i'm working hard to work mostly on the backend side.
+I'm currently working as fullstack web developer but i want to be a fulltime backend developer.
 
 - 🏢 I'm currently working at [mentta](https://mentta.com/)
 - 📑 I'm currently learning **Go**
