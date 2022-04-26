@@ -45,7 +45,7 @@ I'm currently working as fullstack web developer, but i'm working hard to work m
     </td>
     <td align="center" width="96">
       <a href="#aitor">
-        <img src="./img/git.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/git.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
     </td>
