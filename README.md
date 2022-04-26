@@ -10,7 +10,8 @@ I'm currently working as fullstack web developer but i want to be a fulltime bac
 - 🌍 Living in Spain, but i would love to move to Canada someday!
 
 ### Tech
-> <h4>Tech i use at work</h4>
+
+> <h4>Tech i use at work (or know)</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -49,10 +50,34 @@ I'm currently working as fullstack web developer but i want to be a fulltime bac
       </a>
       <br>Git
     </td>
+    <td align="center" width="96">
+      <a href="#aitor">
+        <img src="./img/mysql.svg" width="48" height="48" alt="mysql" />
+      </a>
+      <br>MySql
+    </td>
+        <td align="center" width="96">
+      <a href="#aitor">
+        <img src="./img/sqlserver.svg" width="48" height="48" alt="sqlserver" />
+      </a>
+      <br>Sqlserver
+    </td>
 </table>
-> Learning
+
+> <h4>Tech i'm learning</h4>
+
 <table>
   <tr>
+    <a href="#aitor">
+      <img src="./img/golang.svg" href="#aitor" alt="golang">
+    </a>
+    <br>Go
+  </tr>
+    <tr>
+    <a href="#aitor">
+      <img src="./img/docker.svg" href="#aitor" alt="docker">
+    </a>
+    <br>docker
   </tr>
 </table>
 <!--
