@@ -44,9 +44,13 @@ I'm currently working as fullstack web developer, but i'm working hard to work m
       <br>Sass
     </td>
 </table>
+> Learning
+<table>
+  <tr>
+  </tr>
+</table>
 <!--
 **AitorAmbite/AitorAmbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
