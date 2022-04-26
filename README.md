@@ -14,31 +14,31 @@ I'm currently working as fullstack web developer, but i'm working hard to work m
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#aitor">
         <img src="./img/dotnet.svg" width="48" height="48" alt=".net" />
       </a>
-      <br>.net ;
+      <br>.net
     </td>
         <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#aitor">
         <img src="./img/csharp.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#&nbsp;
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#aitor">
         <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#aitor">
         <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#aitor">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
