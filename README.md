@@ -10,7 +10,7 @@ I'm currently working as fullstack web developer, but i'm working hard to work m
 - 🌍 Living in Spain, but i would love to move to Canada someday!
 
 ### Tech
-> <h4>Tech that i use at work</h4>
+> <h4>Tech i use at work</h4>
 <table>
   <tr>
     <td align="center" width="96">
@@ -42,6 +42,12 @@ I'm currently working as fullstack web developer, but i'm working hard to work m
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
+    </td>
+    <td align="center" width="96">
+      <a href="#aitor">
+        <img src="./img/git.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Git
     </td>
 </table>
 > Learning
