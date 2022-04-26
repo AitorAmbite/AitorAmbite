@@ -67,17 +67,19 @@ I'm currently working as fullstack web developer but i want to be a fulltime bac
 > <h4>Tech i'm learning</h4>
 
 <table>
-  <tr width="96">
-    <a href="#aitor">
-      <img src="./img/golang.svg" href="#aitor" width="48" height="48" alt="golang">
-    </a>
-    <br>Go
-  </tr>
-  <tr width="96">
-    <a href="#aitor">
-      <img src="./img/docker.svg" href="#aitor" width="48" height="48" alt="docker">
-    </a>
-    <br>docker
+  <tr>
+    <td width="96">
+      <a href="#aitor">
+        <img src="./img/golang.svg" href="#aitor" width="48" height="48" alt="golang">
+      </a>
+      <br>Go
+    </td>
+    <td width="96">
+      <a href="#aitor">
+        <img src="./img/docker.svg" href="#aitor" width="48" height="48" alt="docker">
+      </a>
+      <br>docker
+    </td>
   </tr>
 </table>
 <!--
