@@ -7,7 +7,7 @@ I'm currently working as fullstack web developer, but i'm working hard to work m
 - 🏢 I'm currently working at [mentta](https://mentta.com/)
 - 📑 I'm currently learning **Go**
 - 💻 Connect with me on [linkedin](https://www.linkedin.com/in/aitor-ambite-boix-3070bb15b/)
-- 🌍 Living in Spain currently but i would love to move to Canada someday!
+- 🌍 Living in Spain, but i would love to move to Canada someday!
 
 
 <!--
