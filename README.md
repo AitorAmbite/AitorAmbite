@@ -9,7 +9,41 @@ I'm currently working as fullstack web developer, but i'm working hard to work m
 - 💻 Connect with me on [linkedin](https://www.linkedin.com/in/aitor-ambite-boix-3070bb15b/)
 - 🌍 Living in Spain, but i would love to move to Canada someday!
 
-
+### Tech
+> <h4>Tech that i use at work</h4>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/dotnet.svg" width="48" height="48" alt=".net" />
+      </a>
+      <br>.net ;
+    </td>
+        <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/csharp.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br>C#&nbsp;
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+</table>
 <!--
 **AitorAmbite/AitorAmbite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
