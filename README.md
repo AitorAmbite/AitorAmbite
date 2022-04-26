@@ -60,7 +60,7 @@ I'm currently working as fullstack web developer but i want to be a fulltime bac
       <a href="#aitor">
         <img src="./img/sqlserver.svg" width="48" height="48" alt="sqlserver" />
       </a>
-      <br>Sqlserver
+      <br>Sql Server
     </td>
 </table>
 
